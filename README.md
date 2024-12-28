@@ -51,3 +51,8 @@ This project involves the creation of a Credit Card Financial Dashboard using Po
 ‣ pgAdmin: A GUI for managing PostgreSQL databases.  
 ‣ Power BI: Used for data visualization and creating interactive dashboards.  
 ‣ DAX (Data Analysis Expressions): Used to create calculated columns and measures for deeper analysis.  
+
+
+![Credit_Card_Transaction_SS](https://github.com/user-attachments/assets/fa31179c-e599-4f40-b97e-78c4ac5d8523)
+![Credit_card_Customer_SS](https://github.com/user-attachments/assets/88be40f3-af27-4d24-a2f4-92f6473d7129)
+
